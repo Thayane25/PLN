@@ -1,4 +1,5 @@
 📚 Processamento de Linguagem Natural (PLN) — 6º Semestre
+
 Este repositório contém os materiais desenvolvidos durante a disciplina de Processamento de Linguagem Natural (PLN), ministrada pelo professor Rodolfo na Fatec Mauá. O material foi estruturado ao longo de 8 aulas, nas quais exploramos conceitos fundamentais de PLN e aplicamos técnicas de análise de texto utilizando Python e Google Colab.
 
 Objetivos 
